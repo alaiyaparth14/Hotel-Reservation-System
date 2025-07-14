@@ -10,7 +10,7 @@ public class HotelReservationSystem {
 
     private static final String userName = "root";
 
-    private static final String password = "User@123";
+    private static final String password = "your_db_password";
 
     public static void main(String[] args) throws ClassNotFoundException,InterruptedException{
          try{
